@@ -1,4 +1,4 @@
-# DotKafka
+# DotKafCon
 ---
 ### A simple dotnet core app to demonstrate a Kafka producer and consumer consoles.
 
